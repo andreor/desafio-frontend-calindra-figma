@@ -1,5 +1,5 @@
-# Responsive Navigation
+# Desafio frontend 2
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/andreor/pen/OJMvNWo](https://codepen.io/andreor/pen/OJMvNWo).
+Pode ser visualizado na URL: [https://codepen.io/andreor/pen/OJMvNWo](https://codepen.io/andreor/pen/OJMvNWo).
 
 
